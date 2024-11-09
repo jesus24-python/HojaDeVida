@@ -1,0 +1,63 @@
+body{
+
+    background-image: url(OIP.jpeg);
+    color: aliceblue;
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    
+    
+    }
+    
+    header{
+
+        margin-top: 8px;
+        display: flex;
+        flex-wrap: wrap;
+        background: transparent;
+        border: white 2px solid ;
+        border-radius: 50px;
+        box-shadow: 0 5px 10px;
+        
+
+
+
+    }
+
+    a{
+        color: white;
+        
+   
+    text-shadow: black 0 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    align-items: center;
+    margin-right: 60px;
+    margin-left: 35px;
+    }
+    a:hover{
+
+        cursor: pointer;
+        text-shadow: 0 0 5px;
+    }
+
+    h1{
+        background: gray;
+        text-shadow: black 0 5px 10px;
+        box-shadow: white 0 5px 10px;
+        text-align: center;
+        font-family: monospace;
+        border-radius: 100px;
+        padding: 12px;
+    
+    }
+    h2{
+        background: gray;
+        text-shadow: black 0 5px 10px;
+        box-shadow: white 0 5px 10px;
+        text-align: center;
+        font-family: monospace;
+        border-radius: 100px;
+        padding: 12px;
+    
+    }
